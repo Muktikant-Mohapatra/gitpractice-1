@@ -1,6 +1,7 @@
 hi this is mukti.banda
-<<<<<<< HEAD
-this if gor difference
-=======
 this is branch1
+<<<<<<< HEAD
+modified in master branch.
+=======
+modified in branch1
 >>>>>>> branch1
